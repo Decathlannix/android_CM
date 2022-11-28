@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Homework - Dialer</string>
+    <string name="dial_button_1">1</string>
+    <string name="dial_button_2">2</string>
+    <string name="dial_button_3">3</string>
+    <string name="dial_button_4">4</string>
+    <string name="dial_button_5">5</string>
+    <string name="dial_button_6">6</string>
+    <string name="dial_button_7">7</string>
+    <string name="dial_button_8">8</string>
+    <string name="dial_button_9">9</string>
+    <string name="dial_button_0">0</string>
+    <string name="dial_button_hashtag">#</string>
+    <string name="dial_button_plus">+</string>
+    <string name="speed_dial_button">-</string>
+    <string name="texview_hint">Insert a phone number</string>
+    <string name="callbutton_description">Button that passes the call to the phone\'s default dialer</string>
+    <string name="clearbutton_description">Button that clears the phone number</string>
+    <string name="detailsfragment_title">Contact Details</string>
+    <string name="userimage_description">Image button that serves as an icon for the name associated with the phone number</string>
+    <string name="username_hint">Name</string>
+    <string name="numberimage_description">Image button associated with contact\'s phone number</string>
+    <string name="userphonenumber_hint">Phone</string>
+    <string name="savebutton_text">Save</string>
+</resources>
